@@ -1,1 +1,1 @@
-# varinskalaboratorka1
+# VarinskaLab02
